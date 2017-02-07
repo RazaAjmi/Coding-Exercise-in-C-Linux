@@ -12,6 +12,6 @@ You can run the main using
 ```
 ./romanNumeralCalculator
 
-./romanNumeralCalculator-test
-./romanSymbolUtils-test 
-./stringUtils-test
+./roman_calculator-test
+./roman_calculator_util-test 
+./string_util-test
